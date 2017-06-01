@@ -1,0 +1,6 @@
+framework module Pods_InKind {
+  umbrella header "Pods-InKind-umbrella.h"
+
+  export *
+  module * { export * }
+}

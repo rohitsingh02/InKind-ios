@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (4.4.0)
+  - AlamofireObjectMapper (4.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 2.0)
+  - ObjectMapper (2.2.6)
+  - SCLAlertView (0.7.0)
+  - SwiftMessages (3.3.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - AlamofireObjectMapper (~> 4.0)
+  - SCLAlertView (from `https://github.com/vikmeup/SCLAlertView-Swift`)
+  - SwiftMessages
+
+EXTERNAL SOURCES:
+  SCLAlertView:
+    :git: https://github.com/vikmeup/SCLAlertView-Swift
+
+CHECKOUT OPTIONS:
+  SCLAlertView:
+    :commit: 0b3127b8e66bb8eb34a1822e972b2340dba5c2ba
+    :git: https://github.com/vikmeup/SCLAlertView-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  AlamofireObjectMapper: 435adc82f5b367679bd9e71c4974a54efd0b2521
+  ObjectMapper: '042708195cc46c20871cbcbec0453826398273fd'
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
+  SwiftMessages: '09cea3336e3fb63c3578983c8aac65acaa6d884a'
+
+PODFILE CHECKSUM: 248d84f2807f8333931125d2b36e37f47cf03aec
+
+COCOAPODS: 1.2.0
